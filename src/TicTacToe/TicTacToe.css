@@ -1,9 +1,10 @@
-container{
+.container{
   display: flex;
   justify-content: center;
 }
 
 table td{
+  text-align: center;
   border: 1px solid grey;
   width: 100px;
   height: 100px;
