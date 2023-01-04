@@ -1,7 +1,10 @@
+import TicTacToe from "./TicTacToe/TicTacToe";
 
 function App() {
   return (
-    
+    <div>
+      <TicTacToe />
+    </div>
   );
 }
 
